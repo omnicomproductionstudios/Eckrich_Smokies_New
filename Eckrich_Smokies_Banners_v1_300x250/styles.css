@@ -94,7 +94,7 @@ img {
 
 
 #text_holder {
-  color: #fff8d9;
+  color: #fdf9da;
   font-family: "RockidsSofted Reg";
   font-size: 52.5px;
   line-height: 0.81;
@@ -112,7 +112,7 @@ img {
 }
 
 #h2 {
-  color: #024932;
+  color: #105742;
 }
 
 #cta {
@@ -122,8 +122,8 @@ img {
   bottom: 21px;
   font-size: 12.5px;
   border-radius: 50px;
-  color: #004b36;
-  background-color: #fbfade;
+  color: #105742;
+  background-color: #fdf9da;
   font-family: "subset-Gotham-Medium";
   /* text-transform: uppercase; */
   display: flex;
