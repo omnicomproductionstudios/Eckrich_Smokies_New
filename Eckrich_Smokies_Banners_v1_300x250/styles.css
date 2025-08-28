@@ -5,7 +5,10 @@
 
 @font-face {
   font-family: "RockidsSofted Reg";
-  src: url("./fonts/RockidsSofted-Regular.woff2");
+  src: url("./fonts/subset-RockidsDisplay-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 body,
@@ -96,8 +99,8 @@ img {
 #text_holder {
   color: #fdf9da;
   font-family: "RockidsSofted Reg";
-  font-size: 52.5px;
-  line-height: 0.81;
+  font-size: 53.2px;
+  line-height: 0.80;
   letter-spacing: -0.1px;
   left: 16px;
   top: 22px;
@@ -120,7 +123,7 @@ img {
   height: 31px;
   right: 16px;
   bottom: 21px;
-  font-size: 12.5px;
+  font-size: 12.1px;
   border-radius: 50px;
   color: #105742;
   background-color: #fdf9da;
